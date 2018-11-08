@@ -1,0 +1,82 @@
+body {
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmeQJDOp6vksfPjmVYvWY8Li6oLeVP1xIUy-aSKsOM6Gpamxv-");
+
+}
+
+* {
+  font-family: 'CMUSerifRoman'; 
+  font-weight: normal; 
+  font-style: normal; 
+  text-align: center;}
+
+body {
+  width: 90%;
+  margin: 0 auto;}
+
+#content {
+  overflow: auto;}
+
+#nav, #feature, #footer {
+  margin: 1%;}
+hi {
+  color:#00FF00;
+}
+
+.column1,
+
+.column2, .column3 {
+  width: 31.3%;
+  float: left;
+  margin: 1%;}
+
+.column3 {
+  margin-right: 0%;
+}
+
+li {
+  display: inline;
+  padding: 0.5em;}
+
+#nav, #footer {
+  background-color: #efefef;
+  padding: 0.5em 0;}
+
+#feature, .article {
+  height: 10em;
+  margin-bottom: 1em;
+  background-color: #efefef;}
+
+#nav  {background-color: mediumorchid;}
+
+#content {background-color: rgb(255, 255);}
+
+#footer {background-color: mediumorchid;}
+
+.column1{background-color: yellow}
+
+.column2{background-color: mediumvioletred}
+
+.column3{background-color:  yellow}
+
+#feature {
+  background-color: white;
+  background-image: url("https://i.pinimg.com/originals/a5/17/c9/a517c901d48d10e577a99ca0a9ea59a9.jpg ");
+  background-size:contain;
+  background-position: center;
+  background-repeat:no-repeat;}
+
+p, h2, a { 
+  font-family: 'DancingScriptRegular'; 
+  font-weight: normal; 
+  font-style: normal; 
+  font-size: 200%;
+}
+
+
+h1 {
+  text-align:center;
+  color:red;
+  font-family:'DancingScriptRegular';
+  font-size:400%;
+
+}
